@@ -1,0 +1,8 @@
+@mixin omit {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+@mixin clearfix {
+    
+}
